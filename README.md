@@ -13,8 +13,8 @@
 ### Hi there 👋 
 My name is Jacques Pieterse and here is a little more about me:
 
-- 🔭 I’m currently working on building projects for my portfolio.
-- 🌱 I’m currently learning a web developer bootcamp with a big focus on JavaScript.
+- 🔭 I’m currently working as a Junior Developer at 4Sight Holdings.
+- 🌱 My current main focus is learing and building Mobile Development projects in Xamarin.
 - 📫 How to reach me: 
 jacquespieterse2000@gmail.com
 
