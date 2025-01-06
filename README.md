@@ -13,8 +13,7 @@
 ### Hi there 👋 
 My name is Jacques Pieterse and here is a little more about me:
 
-- 🔭 I’m currently working as a Junior Developer at 4Sight Holdings.
-- 🌱 My current main focus is learing and building Mobile Development projects in Xamarin.
+- 🌱 My current main focus is building stuff.
 - 📫 How to reach me: 
 jacquespieterse2000@gmail.com
 
