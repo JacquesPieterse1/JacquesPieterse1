@@ -17,5 +17,3 @@ My name is Jacques Pieterse and here is a little more about me:
 - 📫 How to reach me: 
 jacquespieterse2000@gmail.com
 
-[![Jacques's GitHub stats](https://github-readme-stats.vercel.app/api?username=JacquesPieterse1)](https://github.com/JacquesPieterse1/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JacquesPieterse1)](https://github.com/anuraghazra/github-readme-stats)
