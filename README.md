@@ -17,3 +17,5 @@ My name is Jacques Pieterse and here is a little more about me:
 - 📫 How to reach me: 
 jacquespieterse2000@gmail.com
 
+![Github Stats](/assets/stats.svg)
+
