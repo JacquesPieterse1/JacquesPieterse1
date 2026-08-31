@@ -6,7 +6,7 @@
     <img src="[https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)" alt="LinkedIn Badge"/>
   </a>
   <a href="https://jacquespieterse.com">
-    <img src="[https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=white)" alt="Twitter Badge"/>
+    [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)
   </a>
 </div>
 
